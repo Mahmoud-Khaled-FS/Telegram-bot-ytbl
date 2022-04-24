@@ -4,8 +4,8 @@ Link Telegram Bot API [Telegram Bot API](https://core.telegram.org/bots/api).
 
 [![Bot API](https://img.shields.io/badge/Bot%20API-v.5.5-00aced.svg?style=flat-square&logo=telegram)](https://core.telegram.org/bots/api)
 ![npm](https://img.shields.io/npm/v/telegraf?label=Telegraf&logo=npm&logoColor=%23fff&style=flat-square)
-![npm](https://img.shields.io/npm/v/ytdl-core?color=%23CB3837&label=Telegraf&logo=npm&logoColor=%23fff&style=flat-square)
-![npm](https://img.shields.io/npm/v/axios?label=Telegraf&logo=npm&logoColor=%23fff&style=flat-square)
+![npm](https://img.shields.io/npm/v/ytdl-core?color=%23CB3837&label=ytdl-core&logo=npm&logoColor=%23fff&style=flat-square)
+![npm](https://img.shields.io/npm/v/axios?label=axios&logo=npm&logoColor=%23fff&style=flat-square)
 
 </div>
 
