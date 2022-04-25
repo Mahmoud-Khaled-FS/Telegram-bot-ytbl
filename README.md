@@ -23,7 +23,7 @@ npm install
 - Send Any Youtube link and Bot Will Send MP3 File To You.
 
 <br>
-<p align="center"><img src="gif/Deom.gif" width="100%" alt="Show Bot"></p>
+<p align="center"><img src="gif/Demo.gif" width="100%" alt="Show Bot"></p>
 <br>
 
 ## Requirements
